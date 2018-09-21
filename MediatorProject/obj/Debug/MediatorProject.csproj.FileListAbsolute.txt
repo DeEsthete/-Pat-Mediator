@@ -1,0 +1,7 @@
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\bin\Debug\MediatorProject.exe.config
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\bin\Debug\MediatorProject.exe
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\bin\Debug\MediatorProject.pdb
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\obj\Debug\MediatorProject.csprojAssemblyReference.cache
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\obj\Debug\MediatorProject.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\obj\Debug\MediatorProject.exe
+C:\Users\djoni\source\repos\MediatorProject\MediatorProject\obj\Debug\MediatorProject.pdb
